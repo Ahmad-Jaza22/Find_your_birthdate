@@ -13,7 +13,7 @@ namespace DateOfBirthCalculator
 
             string age = Console.ReadLine();
 
-            DateTime now = DateTime.Now;
+            
             
 
             int birth = 2021 - int.Parse(age);
