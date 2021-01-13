@@ -1,0 +1,13 @@
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.exe
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.deps.json
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.runtimeconfig.json
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.runtimeconfig.dev.json
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.dll
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\bin\Debug\netcoreapp3.1\DateOfBirthCalculator.pdb
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.csprojAssemblyReference.cache
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.AssemblyInfoInputs.cache
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.AssemblyInfo.cs
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.csproj.CoreCompileInputs.cache
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.dll
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.pdb
+D:\3rd year\Business Application\Projects\Date of birth calc\DateOfBirthCalculator\DateOfBirthCalculator\obj\Debug\netcoreapp3.1\DateOfBirthCalculator.genruntimeconfig.cache
