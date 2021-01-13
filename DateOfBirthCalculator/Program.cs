@@ -13,9 +13,6 @@ namespace DateOfBirthCalculator
 
             string age = Console.ReadLine();
 
-            
-            
-
             int birth = 2021 - int.Parse(age);
 
             Console.WriteLine("\n your date of birth is: " + birth);
